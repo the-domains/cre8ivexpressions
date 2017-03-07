@@ -1,19 +1,19 @@
 ---
 publisher: {}
-dateModified: '2017-03-07T05:27:06.668Z'
+datePublished: '2017-03-07T05:47:47.053Z'
+dateModified: '2017-03-07T05:47:44.152Z'
 via: {}
 description: 'March 24th, 2017'
-title: 'Grand Opening '
+title: Grand Opening
+sourcePath: _posts/2017-03-07-grand-opening.md
 inFeed: true
 author: []
-datePublished: '2017-03-07T05:27:12.619Z'
 starred: true
 datePublishedOriginal: '2017-03-07T05:27:12.619Z'
-sourcePath: _posts/2017-03-07-grand-opening.md
 _type: Blurb
 
 ---
-## **Grand Opening **
+## **Grand Opening**
 
 **March 24th, 2017**
 
