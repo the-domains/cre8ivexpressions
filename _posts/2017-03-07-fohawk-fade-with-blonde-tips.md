@@ -1,15 +1,15 @@
 ---
 publisher: {}
-dateModified: '2017-03-07T07:01:09.178Z'
+datePublished: '2017-03-07T07:04:15.816Z'
+dateModified: '2017-03-07T07:04:03.062Z'
 via: {}
-description: ' Fohawk Fade with blonde tips. '
+description: Fohawk Fade with blonde tips.
 title: ''
+sourcePath: _posts/2017-03-07-fohawk-fade-with-blonde-tips.md
 inFeed: true
 author: []
-datePublished: '2017-03-07T07:01:13.421Z'
 starred: true
 datePublishedOriginal: '2017-03-07T07:01:13.421Z'
-sourcePath: _posts/2017-03-07-fohawk-fade-with-blonde-tips.md
 _type: Blurb
 
 ---
