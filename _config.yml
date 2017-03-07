@@ -1,0 +1,40 @@
+name: Cre8iveXpressions
+analytics: {}
+github: true
+description: Located in the W Salon Suites
+author:
+  name: Troy Madeiros
+  url: www.Cre8iveXpressions.com
+  email: tmadeiros01@gmail.com
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+content: []
+layout_spectrum: 1
+color:
+  lightness: 0.4350399969631603
+  brandColors:
+    - '#25064D'
+    - '#36175E'
+    - '#553285'
+    - '#7B52AB'
+    - '#9768D1'
+  saturation: 0.9859616726495805
+  brandStrength: 0.6026965276384265
+  rhythmicContrast: 0.6252095306968076
+content_rating:
+  adult: false
+typography_spectrum: 0.3707789705045484
+opengraph: {}
+title: 'Cre8ive Xpressions '
+coverPrefs:
+  filter: false
