@@ -3,21 +3,21 @@ analytics: {}
 github: true
 description: Located in the W Salon Suites
 author:
-  name: Troy Madeiros
+  name: Jenn Madeiros
   url: www.Cre8iveXpressions.com
-  email: tmadeiros01@gmail.com
+  email: Hairbyj3nn@gmail.com
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 content: []
 layout_spectrum: 1
 color:
